@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Swaqly</string>
+    <string name="login">Login</string>
+    <string name="signUp">Sign Up</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="create_account">Create an Account</string>
+    <string name="add_ur_details_log">Add your details to login</string>
+    <string name="add_ur_details_sign">Add your details to sign up</string>
+    <string name="ur_email">Your Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="mobile">Mobile No.</string>
+    <string name="address">Address</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forget_password">Forgot your password?</string>
+    <string name="do_not_have">Don\'t have an Account?</string>
+    <string name="already_have">Already have an Account?</string>
+    <string name="or_log_with">or Login With</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="send">Send</string>
+    <string name="forget">Forgot Password</string>
+    <string name="loading">Loading…</string>
+    <string name="forget_details">Please enter your email to receive a\nlink to create a new password via email</string>
+    <string name="char_8">At least 8 charachters</string>
+    <string name="minumum_one_upper">Minumum one uppercase</string>
+    <string name="min_one_num">Minumum one number</string>
+    <string name="min_one_special">Minumum one symbol</string>
+    <string name="email_address_error">Please, enter a valid email address</string>
+    <string name="check_your_inputs_title">Please check your inputs</string>
+    <string name="check_your_inputs_msg">some inputs is invalid.</string>
+
+    <string name="no_internet_title">No Internet Connection</string>
+    <string name="no_internet_msg">Please check your internet connection and try again.</string>
+    <string name="time_out_title">Connection Timed Out</string>
+    <string name="time_out_msg">Please try again.</string>
+
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="title_activity_myhome">Myhome</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
